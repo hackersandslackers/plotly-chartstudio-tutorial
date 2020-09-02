@@ -4,9 +4,9 @@
 ![Plotly](https://img.shields.io/badge/Plotly-v4.9.0-blue.svg?logo=python&longCache=true&logoColor=white&style=flat-square&colorA=4c566a&colorB=5e81ac)
 ![Pandas](https://img.shields.io/badge/Pandas-v1.1.1-blue.svg?logo=pandas&longCache=true&logoColor=white&style=flat-square&colorA=4c566a&colorB=B48EAD)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/google/skia.svg?logo=github&style=flat-square&colorA=4c566a&colorB=a3be8c)
-[![GitHub Issues](https://img.shields.io/github/issues/toddbirchard/tableau-extraction.svg?logo=github&style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/plotly-chartstudio-tutorial/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/toddbirchard/tableau-extraction.svg?logo=github&style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/plotly-chartstudio-tutorial/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/toddbirchard/tableau-extraction.svg?logo=github&style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/plotly-chartstudio-tutorial/network)
+[![GitHub Issues](https://img.shields.io/github/issues/hackersandslackers/plotly-chartstudio-tutorial.svg?logo=github&style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/plotly-chartstudio-tutorial/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/hackersandslackers/plotly-chartstudio-tutorial.svg?logo=github&style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/plotly-chartstudio-tutorial/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/hackersandslackers/plotly-chartstudio-tutorial.svg?logo=github&style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/plotly-chartstudio-tutorial/network)
 
 Source for the accompanying tutorial: https://hackersandslackers.com/plotly-chart-studio/
 
