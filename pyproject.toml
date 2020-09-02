@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "plotly_chartstudio_tutorial"
+version = "0.1.0"
+description = "Create Cloud-hosted Charts with Plotly Chart Studio."
+authors = ["Todd Birchard <toddbirchard@gmail.com>"]
+maintainers = ["Todd Birchard <toddbirchard@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://hackersandslackers.com/plotly-chart-studio/"
+repository = "https://github.com/hackersandslackers/plotly-chartstudio-tutorial/"
+documentation = "https://hackersandslackers.com/plotly-chart-studio/"
+keywords = [
+    "Plotly",
+    "Plotly Chart Studio",
+    "Data Visualization",
+    "Data Analysis",
+    "Data Science"
+]
+
+[tool.poetry.dependencies]
+Python = "^3.8"
+requests = "*"
+pandas = "*"
+plotly = "*"
+chart-studio = "*"
+loguru = "*"
+python-dotenv = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
+mypy = "*"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+
+[tool.poetry.scripts]
+run = "main:script"
+
+[tool.poetry.urls]
+issues = "https://github.com/hackersandslackers/plotly-chartstudio-tutorial/issues"
