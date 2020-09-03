@@ -1,8 +1,8 @@
 """Initialize script."""
-from loguru import logger
 from .api import fetch_stock_data
 from .data import parse_data
 from .chart import create_chart
+from .log import logger
 
 
 def init_script() -> str:

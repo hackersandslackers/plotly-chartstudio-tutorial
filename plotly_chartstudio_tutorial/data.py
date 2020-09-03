@@ -1,4 +1,4 @@
-"""Parse raw data into Pandas DataFrame."""
+"""Parse raw API data into Pandas DataFrame."""
 import pandas as pd
 
 

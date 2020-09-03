@@ -6,6 +6,7 @@ from pandas import DataFrame
 from config import PLOTLY_API_KEY, PLOTLY_USERNAME
 
 
+# Plotly Chart Studio authentication
 set_credentials_file(
     username=PLOTLY_USERNAME,
     api_key=PLOTLY_API_KEY
