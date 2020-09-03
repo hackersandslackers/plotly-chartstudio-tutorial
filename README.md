@@ -8,7 +8,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/hackersandslackers/plotly-chartstudio-tutorial.svg?logo=github&style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/plotly-chartstudio-tutorial/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/hackersandslackers/plotly-chartstudio-tutorial.svg?logo=github&style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/plotly-chartstudio-tutorial/network)
 
-Source for the accompanying tutorial: https://hackersandslackers.com/plotly-chart-studio/
+Use Pandas and Plotly to create cloud-hosted data visualizations on demand in Python. Source for the accompanying tutorial: https://hackersandslackers.com/plotly-chart-studio/
+
+![Plotly Chart Studio](./.github/plotly-chartstudio@2x.jpg)
 
 ## Installation
 
