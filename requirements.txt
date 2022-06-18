@@ -3,7 +3,7 @@ chardet==3.0.4
 chart-studio==1.1.0
 idna==2.10
 loguru==0.5.1
-numpy==1.19.1
+numpy==1.22.4
 pandas==1.1.1
 plotly==4.9.0
 python-dateutil==2.8.1
